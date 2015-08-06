@@ -1,6 +1,6 @@
-# zero-light-starter
+# spike-path
 
-Prototype development kit with jspm, browser-sync, sass and gulp.
+Path exploration. Random spiky body around a line that grows based on the mouse speed.
 
 ##### Development instructions:
 ```sh
