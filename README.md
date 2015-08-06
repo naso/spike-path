@@ -2,6 +2,8 @@
 
 Path exploration. Random spiky body around a line that grows based on the mouse speed.
 
+[[ view demo ]](http://naso.github.io/spike-path/)
+
 ##### Development instructions:
 ```sh
 # install all the dependencies
