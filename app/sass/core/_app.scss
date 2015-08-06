@@ -1,0 +1,24 @@
+html, body {
+  overflow:hidden;
+}
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.5em;
+  background-color: #FFF;
+  color: #ccc;
+  letter-spacing: 0.02em;
+  margin: 25px;
+}
+
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
