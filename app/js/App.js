@@ -34,8 +34,8 @@ export default class App {
 
     if (this.isTouchDevice()) {
 
-      window.addEventListener('touchmove', (e) => { this.onTouchMove(e) })
-      window.addEventListener('touchend', (e) => { this.onTouchEnd(e) })
+      this.el.addEventListener('touchmove', (e) => { this.onTouchMove(e) })
+      this.el.addEventListener('touchend', (e) => { this.onTouchEnd(e) })
 
     } else {
 

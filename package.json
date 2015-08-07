@@ -49,6 +49,7 @@
     "gulp-autoprefixer": "^2.3.1",
     "gulp-changed": "^1.2.1",
     "gulp-compass": "^2.1.0",
+    "gulp-foreach": "^0.1.0",
     "gulp-minify-html": "^1.0.4",
     "gulp-replace": "^0.5.3",
     "gulp-sourcemaps": "^1.5.2",
